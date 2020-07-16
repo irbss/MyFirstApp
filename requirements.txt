@@ -1,0 +1,6 @@
+flask
+gunicorn
+logging
+Keras
+numpy
+tensorflow
